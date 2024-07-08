@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I've learned new things about flexbox.
+I learned new things about flexbox.
 
 ### Useful resources
 - [CodeCademy Cheatsheet](https://www.codecademy.com/resources/cheatsheets/language/html-css) - This cheatsheet is a very useful resource for HTML and CSS
