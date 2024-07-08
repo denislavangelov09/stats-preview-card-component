@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-N0qm7Lq6HJ)
+- Live Site URL: [Live site URL](https://stats-preview-card-component-tedkata.vercel.app/)
 
 ## My process
 
