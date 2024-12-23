@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-N0qm7Lq6HJ)
-- Live Site URL: [Live site URL](https://stats-preview-card-component-tedkata.vercel.app/)
+- Live Site URL: [Live site URL](https://stats-preview-card-component-denislav.vercel.app)
 
 ## My process
 
@@ -50,4 +50,4 @@ I learned new things about flexbox.
 
 
 ## Author
-- Frontend Mentor - [@tedkataa](https://www.frontendmentor.io/profile/tedkataa)
+- Frontend Mentor - [@denislavangelov09](https://www.frontendmentor.io/profile/denislavangelov09)
